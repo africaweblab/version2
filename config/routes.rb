@@ -3,6 +3,7 @@ Weblab::Application.routes.draw do
   get "pages/qui_sommes_nous"
   get "pages/concours"
   get "pages/contact"
+  get "pages/annuaire"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
